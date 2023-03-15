@@ -1,0 +1,56 @@
+.part1 h2 {
+    color: red ;
+}
+.part1 p{
+    color: white;
+    background-color: black;
+}
+.part2 h2{
+    color: green;
+}
+.part2 p{
+    color: green;
+    background-color: darkred;
+}
+.part3 div{
+    color: green;
+}
+.part3 p{
+    color: green;
+}
+.part4 {
+    color: green;
+}
+.part4 div{
+   color: black;
+}
+
+
+/*  this is the Style code for the Eexercise 2 */
+
+.csym019{
+    background-color: aqua;
+    width: 50%;
+    margin-right: -20px;
+    float: left;
+    padding-left: 10px;
+}
+.csym015{
+    background-color: yellow;
+    width: 50%;
+    margin-right: -20px;
+    float: right;
+    padding-left: 5px;
+}
+
+/* style for  the internet security page */
+.top{
+   background-color: black; 
+   color: aliceblue;
+   width: 100%;
+}
+.navbar ul{
+  color: red;
+  text-decoration: none;
+  list-style-type: none;
+}
